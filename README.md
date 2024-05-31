@@ -2,7 +2,7 @@
 
 # Flappy birb 🐧
 
-🔧 A remake of Dong Nguyen's hit game in 2013 as my UET project
+* A remake of Dong Nguyen's hit game in 2013 as my UET project
 
 ## Overview
 
