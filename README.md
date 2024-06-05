@@ -22,7 +22,7 @@
 
 ### 📥 Installation 
 
-* Clone this repository to your PC by  ``` git clone https://github.com/introvertkid/Chjm](https://github.com/KatoTheFirst/Game ``` 
+* Clone this repository to your PC by  ``` git clone https://github.com/KatoTheFirst/Game ``` 
 
 * Build the program and run
 
