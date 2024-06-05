@@ -2,6 +2,8 @@
 
 <p align="center"><a href="https://github.com/KatoTheFirst/Game"><img width="40%" src="https://github.com/KatoTheFirst/Game/blob/main/Image/Screenshot%202024-06-06%20022509.png?raw=true"></a></p>
 
+<p align="center"><a href="https://github.com/KatoTheFirst/Game"><img width="40%" src="https://github.com/KatoTheFirst/Game/blob/main/Image/Screenshot%202024-06-06%20023135.png?raw=true"></a></p>
+
 # Flappy birb 🐧
 
 * A remake of Dong Nguyen's hit game in 2013 as my UET project
