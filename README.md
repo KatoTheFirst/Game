@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/KatoTheFirst/Game"><img width="40%" src="https://user-images.githubusercontent.com/100189455/169855197-c2543c68-dacb-4a0c-b001-8805b9f00182.png"></a></p>
 
-<p align="center"><a href="https://github.com/KatoTheFirst/Game"><img width="40%" src="https://1drv.ms/i/s!AvY70SKu8QG-oDyNFqCIelF-A6-Z?e=HJX8ny"></a></p>
+<p align="center"><a href="https://github.com/KatoTheFirst/Game"><img width="40%" src="https://github.com/KatoTheFirst/Game/blob/main/Image/Screenshot%202024-06-06%20022509.png?raw=true"></a></p>
 
 # Flappy birb 🐧
 
